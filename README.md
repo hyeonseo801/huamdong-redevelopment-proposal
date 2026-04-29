@@ -34,7 +34,7 @@ Gen-City 입지 분석 점수는 68점 언저리. 나쁘지 않은 숫자다.
  
 👉 **[GitHub Pages에서 보기](https://hyeonseo801.github.io/huamdong-redevelopment-proposal)**
  
-또는 레포를 클론 후 `후암동_역세권_완전개발_제안.html` 직접 열기
+또는 레포를 클론 후 `index.html` 직접 열기
  
 ## 관련 프로젝트
  
